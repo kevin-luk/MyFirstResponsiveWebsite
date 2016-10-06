@@ -344,10 +344,24 @@ body
 	}
 }
 
-.ad
-{
+/*   广告   */
 
+.ad 
+{
+	font-size: 0;
 }
+
+.ad .item
+{
+	width: 100%;
+}
+
+.ad .item img
+{
+	width: 100%; 
+}
+
+/*   宣传   */
 
 .feature
 {
